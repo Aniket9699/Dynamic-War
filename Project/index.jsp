@@ -5,6 +5,7 @@
 <form method="post">
 	Enter Name: <input type="text"><br>
 	Enter Password: <input type="password"><br>
+	Enter Email: <input type="email"><br>
 	<input type="submit" value="submit">
 </form>
 </body>
